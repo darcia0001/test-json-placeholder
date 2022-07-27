@@ -1,0 +1,9 @@
+[
+    {
+        "service_name": "Paps",
+        "description": "Includes tracking and insurance",
+        "service_code": "expedited_mail",
+        "currency": "XOF",
+        "total_price": 1500
+    }
+]
