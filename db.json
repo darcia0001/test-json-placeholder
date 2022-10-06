@@ -5,5 +5,26 @@
         "service_code": "expedited_mail",
         "currency": "XOF",
         "total_price": 1500
+    },
+     {
+        "service_name": "Esp",
+        "description": "Includes tracking and insurance",
+        "service_code": "expedited_mail",
+        "currency": "XOF",
+        "total_price": 1500
+    },
+     {
+        "service_name": "Bizao",
+        "description": "Includes tracking and insurance",
+        "service_code": "expedited_mail",
+        "currency": "XOF",
+        "total_price": 1500
+    },
+     {
+        "service_name": "Orange",
+        "description": "Includes tracking and insurance",
+        "service_code": "expedited_mail",
+        "currency": "XOF",
+        "total_price": 1500
     }
 ]}
